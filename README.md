@@ -1,2 +1,2 @@
 # prepare for the lab safety quiz
-click [here](google.com )to use
+click [here](https://11111tao.github.io/ChemistryLabSafetyQuiz/)to use
